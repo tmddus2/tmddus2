@@ -1,6 +1,5 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:9999FF,100:0033FF&height=200&section=header&text=welcome!&fontSize=50)
 
 <div align="center">
 <h2>
@@ -19,7 +18,6 @@ Hello👋🏻<br>I'm Seungyeon
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:9999FF,100:0033FF&height=200&section=footer)
 
 
 
