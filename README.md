@@ -23,15 +23,15 @@ Hello👋🏻<br>I'm Seungyeon
 </div>
 
 <br>
+<div align="center">
+  <a href="https://github.com/metleeha">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmddus2&layout=compact" width="40%">
+  </a>
+  <a href="https://github.com/metleeha">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tmddus2" width="40%">
+  </a>
+</div>
 
-<div style="display: flex; justify-content: center; gap: 10px">
-<div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmddus2&layout=compact"><br><br>
-</div>
-<div>
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tmddus2">
-</div>
-</div>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=tmddus2&show_icons=true&theme=transparent">
