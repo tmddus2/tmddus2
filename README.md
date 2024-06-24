@@ -10,15 +10,15 @@
       <td>2023.08 ~ 2023.12</td>
     </tr>
     <tr>
-      <td><a href="https://www.cloudclub.kr/">Cloud Club</a></td>
+      <td><a href="https://www.cloudclub.kr/">Cloud Club 4기</a></td>
       <td>2023.08 ~ NOW</td>
     </tr>
     <tr>
-      <td><a href="https://devocean.sk.com/">DEVOCEAN YOUNG</a></td>
+      <td><a href="https://devocean.sk.com/">DEVOCEAN YOUNG 3기</a></td>
       <td>2024.02 ~ NOW</td>
     </tr>
     <tr>
-      <td><a href="https://cmc.makeus.in/">Central Makeus Challenge (CMC)</a></td>
+      <td><a href="https://cmc.makeus.in/">Central Makeus Challenge (CMC) 15기</a></td>
       <td>2024.06 ~ 2024.08</td>
     </tr>
   </table>
