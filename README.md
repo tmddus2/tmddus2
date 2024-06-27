@@ -51,6 +51,28 @@
 </div>
 <br/>
 <div>
+    <h2>✏️ Study</h2>
+  <table>
+    <tr>
+      <th>Study</th>
+      <th>Period</th>
+    </tr> 
+    <tr>
+      <td><a href="https://github.com/tmddus2/effective-java">이펙티브 자바 책 스터디</a></td>
+      <td>2024.06 ~ NOW</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/tmddus2/Spring">Spring 스터디</a></td>
+      <td>2022.07 ~ 2023.07</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/tmddus2/nojam_study">알고리즘 스터디</a></td>
+      <td>2022.03 ~ NOW</td>
+    </tr>
+  </table>
+</div>
+<br/>
+<div>
   <h2>💻 Development Stack</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=spring,nestjs,fastapi&theme=light" />
