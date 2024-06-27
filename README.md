@@ -1,4 +1,30 @@
 <div>
+    <h2>🎁 Project</h2>
+  <table>
+    <tr>
+      <th>Project</th>
+      <th>Period</th>
+      <th>Role</th>
+    </tr> 
+    <tr>
+      <td><a href="https://github.com/boostcampwm2023/web13_Boarlog">기록으로 남기는 실시간 화이트보드 강의, Boarlog</a></td>
+      <td>2023.11 ~ 2023.12</td>
+      <td>Backend</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/tmddus2/hello-nature">반려식물 키우기 hello-nature</a></td>
+      <td>2022.07 ~ 2022.09</td>
+      <td>Backend</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/woog2ee/Atelier">올인원 전시회 플랫폼, 아뜰리에(Atelier)</a></td>
+      <td>2022.03 ~ 2022.06</td>
+      <td>Frontend, Backend</td>
+    </tr>
+  </table>
+</div>
+<br/>
+<div>
     <h2>❤️‍🔥 Experiences</h2>
   <table>
     <tr>
